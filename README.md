@@ -46,4 +46,6 @@ net.mptcp.pm_type = 0
 net.mptcp.scheduler = default
 net.mptcp.stale_loss_cnt = 4
 ```
-# Linux-Kernel-MultiPathTCP
+
+如何使用 MPTCP？
+https://github.com/multipath-tcp/mptcp_net-next/wiki#how-to-use-mptcp
